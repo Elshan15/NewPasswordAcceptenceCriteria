@@ -1,4 +1,4 @@
-Feature: Login Application
+Feature: Registration Application
 
   @SmokeTest
   Scenario: Create a new account with valid password
